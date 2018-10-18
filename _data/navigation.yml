@@ -1,0 +1,63 @@
+header:
+  - titles:
+      en:       Retrievals
+    url:        /retrieval.html
+  - titles:
+      en:       Data Analysis
+    url:        /data_analysis.html
+  - titles:
+      en:       Archive
+    url:        /archive.html
+
+
+data_analysis:
+  - title:      The Data
+    children:
+      - title:  Data
+        url:    /data_analysis/data
+      - title:  ArielSim
+        url:    /data_analysis/arielsim
+
+  - title:      The Challenge
+    children:
+      - title:  Required products
+        url:    /data_analysis/required_products
+      - title:  The Timeline
+        url:    /data_analysis/timeline
+      - title:  Submission
+        url:    /data_analysis/submission
+
+  - title:      Available Codes
+    children:
+      - title:  Code repositories
+        url:    /data_analysis/codes/available
+
+  - title:      Get in touch
+    children:
+      - title:  Feedback/Slack/Mailing list
+        url:    /data_analysis/feedback
+
+
+retrieval-nav:
+  - title:      Retrieval Challenge
+    children:
+      - title:  Overview
+        url:    /retrievals/overview
+      - title:  Timeline
+        url:    /retrievals/timeline
+      - title:  Data structure
+        url:    /retrievals/data_structure
+      - title:  Opacities
+        url:    /retrievals/opacities
+      - title:  Submission
+        url:    /retrievals/submission
+
+  - title:      Retrieval Codes
+    children:
+      - title:  Participating Codes
+        url:    /retrievals/participating_codes
+
+  - title:      Get in touch
+    children:
+      - title:  Feedback/Slack/Mailing list
+        url:    /retrievals/feedback
