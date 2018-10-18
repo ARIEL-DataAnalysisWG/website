@@ -3,7 +3,6 @@ layout: article
 titles:
   en: Discussion/Feedback
 key: page-data-feedback
-comment: true
 mathjax: true
 mermaid: true
 sidebar:

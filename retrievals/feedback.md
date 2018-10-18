@@ -3,12 +3,11 @@ layout: article
 titles:
   en: Feedback
 key: page-retrievals-feedback
-comment: true
 sidebar:
   nav: retrieval-nav
 ---
 
-Feedback pages
+Feedback pages for retrieval challenge
 
 - Slack
 - mailing list
