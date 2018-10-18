@@ -121,11 +121,11 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 32adf4553a3263c00358 # GitHub Application Client ID
-    clientSecret: 3fd298ac8736a158f218fd36e465c56b4c753f53 # GitHub Application Client Secret
-    repository  : ARIEL-DataAnalysisWG/website # GitHub repo
-    owner       : ingo1807 # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    clientID    : '32adf4553a3263c00358' # GitHub Application Client ID
+    clientSecret: '3fd298ac8736a158f218fd36e465c56b4c753f53' # GitHub Application Client Secret
+    repository  : 'ARIEL-DataAnalysisWG/website' # GitHub repo
+    owner       : 'ingo1807' # GitHub repo owner
+    admin: ['ingo1807'] # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
 
 
