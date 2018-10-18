@@ -3,6 +3,7 @@ layout: article
 titles:
   en: Feedback
 key: page-retrievals-feedback
+comment: true
 sidebar:
   nav: retrieval-nav
 ---

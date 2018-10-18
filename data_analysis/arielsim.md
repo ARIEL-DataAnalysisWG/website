@@ -3,6 +3,7 @@ layout: article
 titles:
   en: ARIEL Sim
 key: page-data-arielsim
+comment: false
 sidebar:
   nav: data_analysis
 ---

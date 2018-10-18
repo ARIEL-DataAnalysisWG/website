@@ -3,6 +3,7 @@ layout: article
 titles:
   en: Open Access codes
 key: page-data-codes
+comment: false
 sidebar:
   nav: data_analysis
 ---

@@ -3,6 +3,7 @@ layout: article
 titles:
   en: Required Products
 key: page-data-required
+comment: false
 sidebar:
   nav: data_analysis
 ---

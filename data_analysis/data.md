@@ -3,6 +3,7 @@ layout: article
 titles:
   en: Ariel Simulations
 key: page-data-origin
+comment: false
 sidebar:
   nav: data_analysis
 ---
