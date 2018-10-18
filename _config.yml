@@ -112,7 +112,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "custom"
+  provider: "gitalk" # false (default), "disqus", "gitalk", "custom"
 
   ## Disqus
   disqus:
