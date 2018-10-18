@@ -10,4 +10,8 @@ sidebar:
   nav: data_analysis
 ---
 
-This page will have a feedback comment section
+Feedback pages for data challenge
+
+- Slack
+- mailing list
+- forum below
